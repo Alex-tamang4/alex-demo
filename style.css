@@ -202,6 +202,31 @@ span{
 	display: inline;
 	
 }
+/*about section*/
+.about-contain{
+	width: 100%;
+	background-color: #111;
+}
+.about-heading{
+	font-size: 24px;
+	color: #FF9505;
+}
+.about-img{
+	height: 170px;
+	float: left;
+}
+.about-p{
+	color: #eee;
+	font-size: 20px;
+}
+/*reviews section*/
+.user-img{
+	height: 150px;
+	border: 3px solid black;
+	border-radius: 50%;
+	width: 150px;
+}
+
 /*contact section*/
 .section-title{
 font-size: 24px;
