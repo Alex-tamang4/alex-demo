@@ -9,15 +9,6 @@
 
 ---
 
-# 👨‍💻 About Me
-
-* 🔭 Currently working on **Awesome Projects**
-* 🌱 Learning **AI, Cloud & Advanced Backend**
-* 👯 Looking to collaborate on **Open Source**
-* 💬 Ask me about **Web Development**
-* ⚡ Fun fact: **I debug more than I sleep**
-
----
 
 # 🌐 Connect With Me
 
@@ -34,7 +25,7 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Alex-tamang4">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -49,55 +40,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project      | Description      | Tech         |
-| ------------ | ---------------- | ------------ |
-| 🚀 Project 1 | Cool web app     | React + Node |
-| 🤖 Project 2 | AI project       | Python       |
-| 🌐 Portfolio | Personal website | HTML CSS JS  |
-
----
 
 # 👀 Profile Visitors
 
